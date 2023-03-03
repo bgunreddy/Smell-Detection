@@ -2,8 +2,6 @@
 Video presentation link : https://www.youtube.com/watch?v=REvJXI18oZk
 
 ## Steps to show how to run the project
-
-### Step 1:
 * First, create venv (virtual environment)
 	*	Now, Activate virutual environment venv with command
 		  `source venv/bin/activate`
